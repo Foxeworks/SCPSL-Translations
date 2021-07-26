@@ -90,4 +90,3 @@ Väläytä tehtäväpalkkia syntyessä
 Taustainen okkluusio
 Kolmiulotteinen valokäsittely
 Bloom
-Väläytä tehtäväpalkkia syntyessä
