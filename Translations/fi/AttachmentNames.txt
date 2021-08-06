@@ -41,3 +41,4 @@ Kivääri-lukonkehys~Täysikokoinen ylälukonkehys joka parantaa tulivoimaa ja t
 Lyhyt piippu~Lyhennetty versio standardipiipusta, joka auttaa nopeuttamaan aseen käsiinottoa ja liikkuvuutta.
 Supistus~Lisää haulien hajontasädettä mutta parantaa haulikuvion yhteneväisyyttä.
 Pidennetty piippu~Hieman vähentää haulien hajontasädettä mutta lisää aseen painoa ja pituutta.
+Ei tukkia~Lyhyet rakenteet auttavat liikkuvuuden kanssa, mutta tukin poistamisen jälkeen on mahdotonta ampua turvallisesti tähtäimen kautta.
